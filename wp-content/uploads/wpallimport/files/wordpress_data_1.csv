@@ -1,0 +1,13 @@
+type,title,content,category,slug,author,status
+category,Tin học ứng dụng,Danh mục về tin học ứng dụng,,tin-hoc-ung-dung,admin,publish
+category,Lập trình,Danh mục về lập trình,,lap-trinh,admin,publish
+category,Học vụ,Thông báo học vụ,,hoc-vu,admin,publish
+category,Nghiên cứu khoa học,Các hoạt động nghiên cứu khoa học,,nghien-cuu-khoa-hoc,admin,publish
+category,Hoạt động sinh viên,Sự kiện và hoạt động của sinh viên,,hoat-dong-sinh-vien,admin,publish
+category,Tuyển sinh – Sự kiện,Thông tin tuyển sinh và sự kiện,,tuyen-sinh-su-kien,admin,publish
+post,Ứng dụng CNTT trong giáo dục,Công nghệ thông tin giúp cải thiện phương pháp giảng dạy...,Tin học ứng dụng,ung-dung-cntt-trong-giao-duc,admin,publish
+post,Lập trình Python cơ bản,Hướng dẫn lập trình Python từ cơ bản đến nâng cao...,Lập trình,lap-trinh-python-co-ban,admin,publish
+post,Thông báo học vụ tháng 4,Danh sách sinh viên cần bổ sung hồ sơ học vụ...,Học vụ,thong-bao-hoc-vu-thang-4,admin,publish
+post,Nghiên cứu AI tại EPU,Các nghiên cứu AI mới nhất của Khoa CNTT...,Nghiên cứu khoa học,nghien-cuu-ai-epu,admin,publish
+post,Sinh viên EPU đạt giải Olympic Tin học,Sinh viên xuất sắc giành giải nhất cuộc thi Olympic Tin học...,Hoạt động sinh viên,sinh-vien-epu-dat-giai-olympic-tin-hoc,admin,publish
+post,Thông tin tuyển sinh 2025,Trường Đại học Điện Lực công bố thông tin tuyển sinh năm 2025...,Tuyển sinh – Sự kiện,thong-tin-tuyen-sinh-2025,admin,publish

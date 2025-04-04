@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Tin học ứng dụng]]></title>
+		<content><![CDATA[Danh mục về tin học ứng dụng]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[tin-hoc-ung-dung]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Lập trình]]></title>
+		<content><![CDATA[Danh mục về lập trình]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[lap-trinh]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Học vụ]]></title>
+		<content><![CDATA[Thông báo học vụ]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[hoc-vu]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Nghiên cứu khoa học]]></title>
+		<content><![CDATA[Các hoạt động nghiên cứu khoa học]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[nghien-cuu-khoa-hoc]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Hoạt động sinh viên]]></title>
+		<content><![CDATA[Sự kiện và hoạt động của sinh viên]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[hoat-dong-sinh-vien]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[category]]></type>
+		<title><![CDATA[Tuyển sinh – Sự kiện]]></title>
+		<content><![CDATA[Thông tin tuyển sinh và sự kiện]]></content>
+		<category><![CDATA[]]></category>
+		<slug><![CDATA[tuyen-sinh-su-kien]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Ứng dụng CNTT trong giáo dục]]></title>
+		<content><![CDATA[Công nghệ thông tin giúp cải thiện phương pháp giảng dạy...]]></content>
+		<category><![CDATA[Tin học ứng dụng]]></category>
+		<slug><![CDATA[ung-dung-cntt-trong-giao-duc]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Lập trình Python cơ bản]]></title>
+		<content><![CDATA[Hướng dẫn lập trình Python từ cơ bản đến nâng cao...]]></content>
+		<category><![CDATA[Lập trình]]></category>
+		<slug><![CDATA[lap-trinh-python-co-ban]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Thông báo học vụ tháng 4]]></title>
+		<content><![CDATA[Danh sách sinh viên cần bổ sung hồ sơ học vụ...]]></content>
+		<category><![CDATA[Học vụ]]></category>
+		<slug><![CDATA[thong-bao-hoc-vu-thang-4]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Nghiên cứu AI tại EPU]]></title>
+		<content><![CDATA[Các nghiên cứu AI mới nhất của Khoa CNTT...]]></content>
+		<category><![CDATA[Nghiên cứu khoa học]]></category>
+		<slug><![CDATA[nghien-cuu-ai-epu]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Sinh viên EPU đạt giải Olympic Tin học]]></title>
+		<content><![CDATA[Sinh viên xuất sắc giành giải nhất cuộc thi Olympic Tin học...]]></content>
+		<category><![CDATA[Hoạt động sinh viên]]></category>
+		<slug><![CDATA[sinh-vien-epu-dat-giai-olympic-tin-hoc]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+	<node>
+		<type><![CDATA[post]]></type>
+		<title><![CDATA[Thông tin tuyển sinh 2025]]></title>
+		<content><![CDATA[Trường Đại học Điện Lực công bố thông tin tuyển sinh năm 2025...]]></content>
+		<category><![CDATA[Tuyển sinh – Sự kiện]]></category>
+		<slug><![CDATA[thong-tin-tuyen-sinh-2025]]></slug>
+		<author><![CDATA[admin]]></author>
+		<status><![CDATA[publish]]></status>
+	</node>
+</data>
